@@ -72,12 +72,14 @@ This list is a **community-driven effort** and we encourage:
 - **Posteo** 🇩🇪: Environmentally friendly and privacy-respecting. [Website](https://posteo.de)
 
 ## Search Engines
+- **KARMA** 🇫🇷: Protecting animals and biodiversity for free with your internet searches. [[Website](https://karmasearch.org]
 - **Qwant** 🇫🇷: Privacy-focused, no tracking. [Website](https://qwant.com)
 - **Ecosia** 🇩🇪: Plants trees with its revenue. [Website](https://ecosia.org)
 - **Mojeek** 🇬🇧: Independent, no tracking. [Website](https://mojeek.com)
-- **Startpage** 🇳🇱: Privacy-focused search engine using Google results. [Website](https://startpage.com)
 
 ## Cloud Storage
+- **kDrive** 🇨🇭: Secure file storage with a genereous free tier (15 Go). [Website](https://www.infomaniak.com/en/ksuite/kdrive)
+- **Filen** 🇩🇪: End-to-end encrypted file storage. [Website](https://filen.io/)
 - **pCloud** 🇨🇭: Secure, with encryption options. [Website](https://pcloud.com)
 - **Tresorit** 🇨🇭: End-to-end encrypted. [Website](https://tresorit.com)
 - **Nextcloud** 🇩🇪: Self-hosted, private cloud solution. [Website](https://nextcloud.com)
@@ -167,7 +169,6 @@ offers: Full Office Suite; Works with Microsoft Office Files (.docx, .xlsx, .ppt
 ## Music Streaming
 - **Deezer** 🇫🇷: Global music streaming. [Website](https://deezer.com)
 - **Qobuz** 🇫🇷: High-resolution streaming. [Website](https://qobuz.com)
-- **Tidal** 🇳🇴: Lossless audio streaming. [Website](https://tidal.com)
 - **Jamendo** 🇱🇺:Free music streaming. [Website](https://www.jamendo.com/)
 
 ## AI Chatbots
